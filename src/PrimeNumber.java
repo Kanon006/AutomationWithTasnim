@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class PrimeNumber {
     public static void prime(int num) {
